@@ -17,6 +17,6 @@ My passion lies in creating exceptional user experiences and making data-driven 
 I'm always open to connecting with fellow product enthusiasts, learning from experienced professionals, and collaborating on exciting projects. You can find me on:
 
 - LinkedIn: [Maeva Landreau](https://www.linkedin.com/in/maeva-landreau-productmanager/)
-- Email: [Your Email Address](mailto:maelandreau@gmail.com)
+- Email: [maelandreau@gmail.com](mailto:maelandreau@gmail.com)
 
 Let's embark on this learning journey together and create products that delight users!
